@@ -1,0 +1,45 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+header {
+  position: absolute;
+  width: 192rem;
+  height: 32rem;
+  background: linear-gradient(#CE3246,#FF86B2 );
+}
+
+/*
+
+color:primarias =  
+primary/red = background: #CE3246;
+primary/red-dark = background: #CC1028;
+primary/red-light =background: #F15B6F;
+
+color: secondarias =
+secondary/green = background: #32CF52;
+secondary/green-light = background: #7BD78D;
+secondary/green-dark = background: #13C236;
+
+white/white = background: #FFF8F8;
+white/white-light = background: #FFFDFD;
+ white/white-dark = background: #FBEBED;
+ 
+black/black = background: #211415;
+black/black-light = background: #251E1F;
+black/black-dark = background: #140406;
+
+gray/gray-00 = background: #F3F3F3;
+gray/gray-1 = background: #E5E5E5;
+gray/gray-2 = background: #D9D6D6;
+gray/gray-3 =background: #CECECE;
+ gray/gray-4 =background: #B1AFAF;
+gray/gray-5 =background: #9D9797;
+gray/gray-6 =background: #766E6E;
+*/
+
+/* --------------font-family-----------
+font family: "Lato" styles: Semibold;
+
+
+
+*/
