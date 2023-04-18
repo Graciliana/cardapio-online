@@ -1,0 +1,22 @@
+body {
+  background: #CE3246;
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+h2{
+  font-family:'Lato';
+  font-size: 3.8rem;
+  line-height: 110%;
+  font-style: normal;
+  font-weight: 600;
+  color:#FBEBED;
+}
+p{
+ font-style: normal;
+  font-weight: 600;
+  color:#FBEBED;
+
+}
