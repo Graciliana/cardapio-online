@@ -1,12 +1,70 @@
 body {
   font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 header {
-  position: absolute;
+  position:relative;
   width: 192rem;
   height: 32rem;
   background: linear-gradient(#CE3246,#FF86B2 );
 }
+.box{
+    position:relative;
+    width:60%;
+    margin: 0 auto;
+}
+nav {
+  position:absolute;
+  left:20%;
+  margin-top:20px;
+}
+nav li {
+  display: inline;
+  decoration: none;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-transform: uppercase;
+  color: #FFFDFD;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  
+
+}
+nav a:hover {
+  color: #13C236;
+  text-decoration: underline;
+}
+
+.titulo_principal{
+  position:absolute;
+  top:40%;
+  width:80%;
+  color:#FBEBED;
+  height:auto;
+  font-size:2em;
+  margin:0 0 1em;
+  left:10%;
+}
+.titulo_principal h2{
+  font-family:'Lato';
+  font-size: 4.8rem;
+  line-height: 110%;
+  font-style: normal;
+  font-weight: 600;
+}
+.titulo_principal h1{
+  font-family:'Lato';
+  font-size: 7.2rem;
+  line-height: 110%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+
+
 
 /*
 
